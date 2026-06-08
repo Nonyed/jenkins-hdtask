@@ -1,11 +1,11 @@
 [33mcommit 916fd9f4636a470fae86bf1874f562647f0240b0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
-Author: Harry <hillakipla@gmail.com>
+Author: Nonyed <nonyed2026@gmail.com>
 Date:   Sun Jun 7 00:05:28 2026 +0300
 
     Add Jenkins pipeline script
 
 [33mcommit 83302360df161ae4a6ecf0ad43c7783edda58b70[m
-Author: Harry <hillakipla@gmail.com>
+Author: Nonyed <nonyed2026@gmail.com>
 Date:   Sat Jun 6 22:56:48 2026 +0300
 
     Initial HD assignment commit
